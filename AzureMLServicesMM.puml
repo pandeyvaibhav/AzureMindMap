@@ -1,0 +1,65 @@
+@startmindmap
+<style>
+mindmapDiagram {
+  node {
+    BackgroundColor white
+  }
+}
+</style>
++ Azure Machine Learning
+++[#FFB3BA] Workspace
++++[#FFB3BA] Compute
+++++[#FFB3BA] Compute Instances
+++++[#FFB3BA] Compute Clusters
+++++[#BAFFC9] Inference Clusters
+++++[#FFFFBA] Attached Compute
++++[#FFB3BA] Data
+++++[#FFB3BA] Datastores
+++++[#FFB3BA] Datasets
++++[#BAFFC9] Notebooks
++++[#FFB3BA] Experiments
+++++[#FFB3BA] Runs
+++++[#FFB3BA] Metrics
+++++[#BAFFC9] Logs
++++[#FFB3BA] Models
+++++[#FFB3BA] Model Registry
+++++[#BAFFC9] Model Versioning
+++++[#FFB3BA] Model Deployment
++++[#FFB3BA] Pipelines
+++++[#FFB3BA] Pipeline Steps
+++++[#BAFFC9] Pipeline Runs
+++++[#BAFFC9] Pipeline Endpoints
+++[#BAFFC9] MLOps
++++[#BAFFC9] Azure DevOps Integration
++++[#FFFFBA] GitHub Actions Integration
++++[#BAFFC9] CI/CD Pipelines
+++[#FFB3BA] Automated ML
++++[#FFB3BA] Task Types
+++++[#FFB3BA] Classification
+++++[#FFB3BA] Regression
+++++[#BAFFC9] Time Series Forecasting
++++[#BAFFC9] Model Explainability
+++[#BAFFC9] Designer
++++[#BAFFC9] Drag-and-Drop Interface
++++[#BAFFC9] Prebuilt Modules
++++[#FFFFBA] Custom Modules
+++[#BAFFC9] Responsible AI
++++[#BAFFC9] Fairness
++++[#BAFFC9] Explainability
++++[#BAFFC9] Privacy & Security
+++[#FFFFBA] Integration
++++[#FFFFBA] Azure Synapse Analytics
++++[#FFFFBA] Azure Databricks
++++[#FFFFBA] Power BI
++++[#FFFFBA] Azure IoT
+++[#BAFFC9] Security & Governance
++++[#BAFFC9] Role-Based Access Control (RBAC)
++++[#BAFFC9] Azure Active Directory
++++[#BAFFC9] Virtual Networks
++++[#FFFFBA] Private Link
++ Legend
+++[#FFB3BA] High Priority
++++[#BAFFC9] Medium Priority
+++++[#FFFFBA] Lower Priority
+ 
+@endmindmap
