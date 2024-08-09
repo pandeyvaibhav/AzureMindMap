@@ -1,0 +1,2 @@
+# AzureMindMap
+PlantUML Mindmaps
