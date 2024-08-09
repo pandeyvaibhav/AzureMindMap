@@ -1,0 +1,45 @@
+@startmindmap
+<style>
+mindmapDiagram {
+  node {
+    BackgroundColor white
+  }
+}
+</style>
+* DP-100 Exam Focused Machine Learning Algorithms
+**[#FFB3BA] Supervised Learning
+***[#BAFFC9] Regression
+****[#FFB3BA] Linear Regression: y = mx + b
+****[#FFB3BA] Logistic Regression: Classification, S-curve
+****[#FFFFBA] Polynomial Regression: Non-linear relationships
+****[#FFFFBA] Ridge Regression: L2 regularization
+****[#FFFFBA] Lasso Regression: L1 regularization, feature selection
+****[#FFFFBA] ElasticNet Regression: Combines L1 and L2
+***[#BAFFC9] Classification
+****[#FFB3BA] Decision Trees: Interpretable, prone to overfitting
+****[#FFB3BA] Random Forest: Ensemble, reduces overfitting
+****[#FFB3BA] Support Vector Machines (SVM): Maximizes margin
+****[#BAFFC9] K-Nearest Neighbors (KNN): Instance-based, lazy learning
+****[#BAFFC9] Naive Bayes: Probabilistic, assumes independence
+****[#FFB3BA] Neural Networks: Deep learning, black box
+****[#BAFFC9] Gradient Boosting Machines (GBM): Sequential weak learners
+****[#BAFFC9] XGBoost: Optimized GBM implementation
+**[#BAFFC9] Unsupervised Learning
+***[#BAFFC9] Clustering
+****[#FFB3BA] K-Means: Centroid-based, assumes spherical clusters
+****[#FFFFBA] Hierarchical Clustering: Dendrogram, no predefined clusters
+****[#FFFFBA] DBSCAN: Density-based, handles noise
+****[#FFFFBA] Gaussian Mixture Models (GMM): Probabilistic, soft clustering
+***[#FFFFBA] Dimensionality Reduction
+****[#BAFFC9] Principal Component Analysis (PCA): Linear, preserves variance
+****[#FFFFBA] t-SNE: Non-linear, preserves local structure
+****[#FFFFBA] Singular Value Decomposition (SVD): Matrix factorization
+***[#FFFFBA] Anomaly Detection
+****[#FFFFBA] Isolation Forest: Isolates anomalies, efficient
+****[#FFFFBA] One-Class SVM: Defines normal data boundary
+
+* Legend
+**[#FFB3BA] High Priority
+***[#BAFFC9] Medium Priority
+****[#FFFFBA] Lower Priority
+@endmindmap
